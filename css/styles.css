@@ -1,0 +1,20 @@
+* {
+    outline: dotted;
+    background-color: rgb(44, 44, 102);
+}
+
+header, footer {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+h1 {
+    color: rgb(179, 255, 0);
+}
+
+nav {
+    display: inline-block;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+}
